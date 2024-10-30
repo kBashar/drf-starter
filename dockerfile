@@ -19,4 +19,4 @@ COPY ./src /app/
 EXPOSE 8000
 
 # Run the Django development server
-CMD ["bash", "src/start.sh"]
+CMD ["bash", "./start.sh"]
