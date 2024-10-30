@@ -1,0 +1,9 @@
+# frameworks
+django==4.2
+djangorestframework==3.15.2
+
+# database adapater
+psycopg2-binary==2.9.9
+
+# utility
+python-dotenv==1.0.1
