@@ -32,5 +32,9 @@ cp .env.example .env
 docker compose up --build
 ```
 
-### 
+### Create a superuser 
+
+### Create more user from django admin
+
+### Access Endpoints 
 
