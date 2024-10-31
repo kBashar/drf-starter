@@ -9,7 +9,8 @@ a simple starter for django rest framework
 3. Create project with `django-admin startproject project`
 4. add `start.sh` at project directory level
 5. add .env file to store db credentials
-6. run `docker compose up --build`
+6. add customuser models fields earlier to avoid migration conflicts
+7. run `docker compose up --build`
 
 
 
